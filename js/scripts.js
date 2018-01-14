@@ -11,5 +11,5 @@ if (allNames.indexOf(newName) === -1) {
 	alert("Super! Wprowadziłeś imię, którego jeszcze nie było!");
 } else {
 	console.log("Wprowadzone imię już istnieje!");
-	alert("Wprowadzone imię już jest w spisie imion. Wprowadź inne imię!");
+	alert("Wprowadzone imię już jest w spisie imion.");
 }
